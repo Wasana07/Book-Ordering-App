@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="StartScreen">#98FB98</color>
+    <color name="DarkGreen">#116A6A</color>
+    <color name="btngreen">#36A972</color>
+    <color name="red">#E53935</color>
+    <color name="yellow">#D3B063</color>
+    <color name="backgroundCreamgreenColor">#E1F2D6</color>
+    <color name="blue">#387FDE</color>
+    <color name="gray">#BDBABA</color>
+    <color name="graytextcolor">#979797</color>
+    <color name="calculategray">#999898</color>
+    <color name="lightgreen">#ECF4E9</color>
+</resources>
